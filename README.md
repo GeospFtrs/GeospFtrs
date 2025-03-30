@@ -4,7 +4,7 @@ I have no background in programming or computer science. When I was 14 I made an
 
 Yet here I am, some guy in my late 30s running head first into GIS analysis, diving into Python, itching to develop JavaScript knowledge, and dreaming of machine/deep learning. What business have I with such outlandish behaviour? Why would I head down this road?
 
-Because for the first time in a long time, a road has actually seemed exciting. I started this adventure after a vague notion of a career change, veering away from call centres, retail, and e-commerce, and towards conservation and science. I saw an opportunity to reskill. 
+The reason is that for the first time in a long time, a road has actually seemed exciting. I started this adventure after a vague notion of a career change, veering away from call centres, retail, and e-commerce, and towards conservation and science. I saw an opportunity to reskill. 
 
 As I began this journey, I realised the things that I was drawn to the most are conservation, science, and philosophy. There are threads between these things that lead back to myself as a child: being excited by science and being convinced I was going to be a scientist before I told myself I couldn't; taking walks with my dad and sister through our local national park, being enamoured by the flora and fauna therein. 
 
